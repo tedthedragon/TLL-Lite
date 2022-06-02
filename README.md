@@ -23,13 +23,18 @@ A loot pool addon for Hideous Destructor and Ugly as Sin to add various items to
 - Backup Plan, Barracuda, Fenris, Finger of God, Flammenwerfer 77, HEV Armor, Modular Battle ifle, NS3-Cr.KT, Nyx, PD-42, Rock-It Launcher, Six-12, The Bitch, Wallet
 - Melonades
 - TeleBabuin
-- HDest-Re-Enforcements
+- HDest-Re-Enforcements, Altis Over/Under Shotgun
 - HL-Assassin
 - Cabal Cultists
 - Thunderbuster Jackboots 
 - RadTechWeapons, RadTechZombies
 - PB-Weapons 
-- Cross Pulse Thunderbuster.
+- Cross Pulse Thunderbuster
+- Cozi's Offworld Wares
+- KN_NoScopeBos, kn_UaSGoonPack, kn_UaSPackrat
+- Of Spirits and Shields
+- Blur & Precious
+- Operation: Dead Ringer
 
 ## Future Plans
 
