@@ -27,8 +27,8 @@ Looting:Trilobite: ThunderCracker*2, BeamSpotFlash, LingeringThunder, HDBattery*
 Looting:Boner: Yokai, HDRocketAmmo*4, RocketBigPickup, DudRocketAmmo*2, HEATAmmo
 Looting:CombatSlug: UaS_RandomConsumable*6, DeadBabuin, DeadRifleman, BrainStem*2, UaS_BrokenLiteAmp, Yokai, HDRel_RawLead*5, HDGasTank*3
 Looting:TechnoSpider: BeamSpotFlash*3, HDBattery*8, HDCellPackEmpty*5, Putto, Yokai
-Looting:PainBringer: HDBlursphere, Putto*2, FlyingSkull*4, Yokai*2, BFGNecroShard*2, HDSmoke*4, AssemblyCore*2, HDRel_RawLead*2, HDPersonalShieldGenerator
-Looting:PainLord: HDBlursphere, Putto*3, FlyingSkull*1, Yokai, BFGNecroShard*2, HDSmoke*3, BattleArmour, AssemblyCore*3, HDRel_RawLead*3, HDPersonalShieldGenerator
+Looting:PainBringer: HDBlursphere, Putto*4, FlyingSkull*2, Yokai*2, BFGNecroShard*3, HDSmoke*4, AssemblyCore*3, ClipBoxPickup*2, RocketBoxRandom, HDPersonalShieldGenerator
+Looting:PainLord: HDBlursphere, Putto*3, FlyingSkull*1, Yokai, BFGNecroShard*2, HDSmoke*2, BattleArmour, AssemblyCore*4, CellPackReplacer*2, HDPersonalShieldGenerator
 
 // All of these below here are modded enemies and require their respective mods.
 
@@ -37,7 +37,7 @@ Looting:TeleBabuin: HDSpentShell, HDSpent9mm, TerrorCasing, HDSpent355, HDFragSp
 Looting:PistolZombiemanCorpse: HD9mMag15*3, PortableStimpack*2, HDFragGrenadeAmmo, HDFragGrenadeRoller, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*4, UaS_Flare*2, UaS_Glowstick*2, MercenaryBucks*2
 Looting:PistolZombieman: HD9mMag15*3, PortableStimpack*2, HDFragGrenadeAmmo*2, HDFragGrenadeRoller, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*4, UaS_Flare*2, UaS_Glowstick*2, MercenaryBucks*2
 Looting:RevolverZombieman: HDSnubNoseRevolver, HDSingleActionRevolver, HD45LCBoxPickup, HD355BoxPickup*2, HD9mmBoxPickup*3, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*4, UaS_Flare*2, UaS_Glowstick*2, MercenaryBucks*2
-Looting:HDHellSquire: Putto, FlyingSkull*2, Yokai, BFGNecroShard*2, HDSmoke*3, AssemblyCore
+Looting:HDHellSquire: Putto, FlyingSkull*2, Yokai, BFGNecroShard*2, HDSmoke*3, AssemblyCore, ClipMagPickup*2, ShellRandom
 Looting:BiomechanoidMinor: BeamSpotFlash*3, HDBattery*4, HDCellPackEmpty*5, Yokai
 Looting:BiomechanoidMajor: BeamSpotFlash*2, HDBattery*4, HDCellPackEmpty*5, HDJetPack, Yokai
 Looting:SawnoffZombieman: ShellBoxPickup*2, ShellPickup*4, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*4, UaS_Flare*2, UaS_Glowstick*2
