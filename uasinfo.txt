@@ -46,8 +46,6 @@ Looting:ZS_Hassassin: HD9mMag15*3, PortableStimpack*2, UaS_EmptyStimpack, Portab
 
 Looting:HDJackbuster: HDBattery*8, HDCellPackEmpty*5, Putto, Yokai, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*2, UaS_Flare*2, UaS_FlarePack, UaS_Glowstick*2, UaS_GlowstickPack, HDAPK_GarrisonPatch*2
 
-Looting:TenMilHomeboy: HD10mMag12*3, HD10mMag25*2, HDFragGrenadeAmmo*2, HDFragGrenadeRoller, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*2, UaS_Flare*2, UaS_FlarePack, UaS_Glowstick*2, UaS_GlowstickPack, TenMilAutoReloader
-
 Looting:CabalCultist: ShellBoxPickup*2, ShellPickup*4, HDFragGrenadeAmmo*2, HDFragGrenadeRoller*3, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*3, UaS_Flare*2, UaS_FlarePack, UaS_Glowstick*2, UaS_GlowstickPack
 Looting:CabalFanatic: HD9mmMag30*3, HDGuillotine, HDFragGrenadeAmmo*2, HDFragGrenadeRoller*3, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*3, UaS_Flare*2, UaS_FlarePack, UaS_Glowstick*2, UaS_GlowstickPack
 Looting:CabalAcolyte: HD355BoxPickup*2, HD9mmBoxPickup*3, HDFragGrenadeAmmo*2, HDFragGrenadeRoller*3, PortableStimpack*2, UaS_EmptyStimpack, PortableMedikit, UaS_EmptyMedikit, HDMedikitter, UaS_RandomConsumable*2, UaS_Flare*2, UaS_FlarePack, UaS_Glowstick*2, UaS_GlowstickPack
