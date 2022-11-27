@@ -31,18 +31,13 @@ A loot pool addon for Hideous Destructor and Ugly as Sin to add various items to
 - PB-Weapons 
 - Cross Pulse Thunderbuster
 - Cozi's Offworld Wares
-- KN_NoScopeBos, kn_UaSGoonPack, kn_UaSPackrat
+- kn_UaSGoonPack, kn_UaSPackrat
 - Of Spirits and Shields
 - Blur & Precious
 - Operation: Dead Ringer
+- Hexadoken's Legacy Continued
 
 ## Future Plans
 
-- Replacing all actor names and items in UASINFO with specific enemy randomspawners.
-- Configuration via cvars for mod support to allow the user to customize if they want certain modded items to spawn or not.
 - More mod support to cover most things on Dastrukar's HD Addons Website.
-- Better documentation.
-
-## Recommended Mods
-
-This mod was made for personal load order use, though it's recommended to use all of Ugly as Sin, Peppergrinder, Goonpack, HDest-Re-Enforcements and the Field Assembly Kit with it. The only mod that's necessary is Ugly as Sin's looting and core modules.
+- Better documentation
