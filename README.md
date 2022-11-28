@@ -17,7 +17,7 @@ A loot pool addon for Hideous Destructor and Ugly as Sin to add various items to
 ## Currently Supported Mods
 
 - **Ugly as Sin** *Required for the mod to run!*
-- HDBulletLib
+- HDBulletLib-Recasted, Cozi's Offworld Wares, Hexadoken's Legacy Continued
 - Peppergrinder, HD-Binoculars
 - Arcanum, Blackjack, Booster Jets, Deployable Barricade, Dimensional Storage Device, Executioner, Field Assembly Kit, Jackdaw, Ladder Launcher, Magazine Reloader, Majestic, Merchant, Personal Shield Generator, Redline, Roomba, Secret Finder, Soul Cube, Spicy Air, Super Stimpack, Supply Beacon, Teleporter, Universal Reloader, Viper, zRadarHD
 - Backup Plan, Barracuda, Fenris, Finger of God, Flammenwerfer 77, HEV Armor, Modular Battle ifle, NS3-Cr.KT, Nyx, PD-42, Rock-It Launcher, Six-12, The Bitch, Wallet
@@ -26,16 +26,15 @@ A loot pool addon for Hideous Destructor and Ugly as Sin to add various items to
 - HDest-Re-Enforcements, Altis Over/Under Shotgun
 - HL-Assassin
 - Cabal Cultists
-- Thunderbuster Jackboots 
-- RadTechWeapons, RadTechZombies
-- PB-Weapons 
+- Thunderbuster Jackboots
+- Radtech Weapons, Radtech Zombies
+- PB-Weapons
 - Cross Pulse Thunderbuster
-- Cozi's Offworld Wares
 - kn_UaSGoonPack, kn_UaSPackrat
 - Of Spirits and Shields
 - Blur & Precious
 - Operation: Dead Ringer
-- Hexadoken's Legacy Continued
+- ZM66 Prototype
 
 ## Future Plans
 
